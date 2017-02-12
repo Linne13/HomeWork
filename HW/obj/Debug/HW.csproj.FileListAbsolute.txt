@@ -1,0 +1,6 @@
+c:\users\skh\documents\visual studio 2015\Projects\HW\HW\bin\Debug\HW.exe.config
+c:\users\skh\documents\visual studio 2015\Projects\HW\HW\bin\Debug\HW.exe
+c:\users\skh\documents\visual studio 2015\Projects\HW\HW\bin\Debug\HW.pdb
+c:\users\skh\documents\visual studio 2015\Projects\HW\HW\obj\Debug\HW.csprojResolveAssemblyReference.cache
+c:\users\skh\documents\visual studio 2015\Projects\HW\HW\obj\Debug\HW.exe
+c:\users\skh\documents\visual studio 2015\Projects\HW\HW\obj\Debug\HW.pdb
