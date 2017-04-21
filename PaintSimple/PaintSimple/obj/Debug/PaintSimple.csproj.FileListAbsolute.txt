@@ -1,0 +1,18 @@
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PaintSimple\PaintSimple\bin\Debug\PaintSimple.exe.config
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PaintSimple\PaintSimple\obj\Debug\PaintSimple.Form1.resources
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PaintSimple\PaintSimple\obj\Debug\PaintSimple.Properties.Resources.resources
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PaintSimple\PaintSimple\obj\Debug\PaintSimple.csproj.GenerateResource.Cache
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PaintSimple\PaintSimple\bin\Debug\PaintSimple.exe
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PaintSimple\PaintSimple\bin\Debug\PaintSimple.pdb
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PaintSimple\PaintSimple\obj\Debug\PaintSimple.exe
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PaintSimple\PaintSimple\obj\Debug\PaintSimple.pdb
+c:\users\a.akshabaev\documents\visual studio 2013\Projects\PaintSimple\PaintSimple\obj\Debug\PaintSimple.csprojResolveAssemblyReference.cache
+D:\UNI\PTW11G2-master\PTW11G2-master\PaintSimple\PaintSimple\bin\Debug\PaintSimple.exe.config
+D:\UNI\PTW11G2-master\PTW11G2-master\PaintSimple\PaintSimple\obj\Debug\PaintSimple.exe
+D:\UNI\PTW11G2-master\PTW11G2-master\PaintSimple\PaintSimple\obj\Debug\PaintSimple.pdb
+D:\UNI\PTW11G2-master\PTW11G2-master\PaintSimple\PaintSimple\bin\Debug\PaintSimple.exe
+D:\UNI\PTW11G2-master\PTW11G2-master\PaintSimple\PaintSimple\bin\Debug\PaintSimple.pdb
+D:\UNI\PTW11G2-master\PTW11G2-master\PaintSimple\PaintSimple\obj\Debug\PaintSimple.csprojResolveAssemblyReference.cache
+D:\UNI\PTW11G2-master\PTW11G2-master\PaintSimple\PaintSimple\obj\Debug\PaintSimple.Form1.resources
+D:\UNI\PTW11G2-master\PTW11G2-master\PaintSimple\PaintSimple\obj\Debug\PaintSimple.Properties.Resources.resources
+D:\UNI\PTW11G2-master\PTW11G2-master\PaintSimple\PaintSimple\obj\Debug\PaintSimple.csproj.GenerateResource.Cache
